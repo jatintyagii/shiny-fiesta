@@ -1,7 +1,7 @@
 package go;
 
 public class Hello {
- public void method1() {
-	 
- }
+public static void main(String[] args) {
+	System.out.println("hello everyone");
+}
 }
